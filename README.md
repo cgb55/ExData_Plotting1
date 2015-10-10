@@ -1,3 +1,21 @@
+## Instructions
+
+For details of the assignment please see below.
+
+The scripts `plotX.R` each generate the PNG file `plotX.png` respectively,
+where `X = 1,2,3,4`.
+A helper script `getHPCData.R` is used to create a data frame with the
+relevant observations and a datetime column for producing several of the
+plots. Before sourcing and running the `plotX.R` functions you must:
+```
+> source("getHPCData.R")
+```
+This helper function assumes that the data file has been downloaded and
+is in the working directory with the name `household_power_consumption.txt`.
+
+For further details of each of the functions please see the comments in
+those functions.
+
 ## Introduction
 
 This assignment uses data from
