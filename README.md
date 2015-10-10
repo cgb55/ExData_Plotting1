@@ -16,6 +16,10 @@ is in the working directory with the name `household_power_consumption.txt`.
 For further details of each of the functions please see the comments in
 those functions.
 
+The resulting plots mirror those in the assignment but do not copy them
+exactly. Here I have made the decision to label all axes and give all plots
+relevant titles.
+
 ## Introduction
 
 This assignment uses data from
